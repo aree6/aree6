@@ -1,9 +1,9 @@
 
-# Welcome to Mohammad Areeb's GitHub Profile 👋
+# Welcome to my GitHub Profile 👋
 
 ## About Me
 
-Hello! I'm Mohammad Areeb, an aspiring software engineer with a strong passion for C++.
+Hello! I'm Areeb, an aspiring software engineer.
 
 ## Skills
 
