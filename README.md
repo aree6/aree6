@@ -1,6 +1,6 @@
 Hello!👋 I'm [Areeb](mailto:mohammadareeb34@gmail.com), an aspiring software engineer.        
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.33.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-areeb-9b3a20236/) [![](https://visitcount.itsvg.in/api?id=aree6&icon=0&color=7)](https://visitcount.itsvg.in)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.33.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-areeb-9b3a20236/) [![](https://visitcount.itsvg.in/api?id=aree6&icon=0&color=7)](https://visitcount.itsvg.in)
 
 
 
